@@ -5,5 +5,4 @@ this game is a very simple game using pygame and a few other librarys
 pygame
 
 random
-
 time
