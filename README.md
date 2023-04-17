@@ -1,1 +1,2 @@
-"# Collect-The-Apples" 
+<h1>README</h1>
+this game is 
